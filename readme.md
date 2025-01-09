@@ -1,8 +1,5 @@
-### README for Web Scraping Projects
 
----
-
-## Web Scraping Projects
+# Web Scraping Projects
 
 A collection of web scraping scripts created while learning Python. These projects use libraries like `BeautifulSoup` and `requests` to extract data from websites.
 
